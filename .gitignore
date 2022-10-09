@@ -1,1 +1,3 @@
 /ucdaEnv
+**__pycache__
+.env
