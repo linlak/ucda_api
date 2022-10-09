@@ -1,0 +1,6 @@
+django
+black
+mysqlclient
+djangorestframework
+markdown
+django-filter
